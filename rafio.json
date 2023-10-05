@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Rafio"
+      },
+      {
+        "trait_type": "tag delimiter",
+        "value": "symbol"
+      }
+    ],
+    "description": "My personal logo",
+    "image": "ipfs://QmYJGLKLtfTYcPdpv6v4CHVgkWmArbnwkxEDQJKppJERFw",
+    "name": "Rafio"
+  }
+  
